@@ -1,0 +1,12 @@
+﻿  Calculator_IMP.cpp
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\calculator\calculator\math_prot.hpp(205): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\calculator\calculator\math_prot.hpp(206): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\calculator\calculator\math_prot.hpp(475): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+y:\2_it_informatik\2_programmierung\3_ms vs 2017 ce\2_projekte\calculator\calculator\math_prot.hpp(485): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  ConsoleUtil_IMP.cpp
+  GeneralUtil_IMP.cpp
+  Quelle.cpp
+  Code wird generiert.
+  All 538 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  Calculator.vcxproj -> Y:\2_IT_Informatik\2_Programmierung\3_MS VS 2017 CE\2_Projekte\Calculator\Release\Calculator.exe

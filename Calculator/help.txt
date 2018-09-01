@@ -1,0 +1,77 @@
+COMMAND LIST
+-------------
+
+General
+--------
+1. Type "exit" to close the program.
+2. "Whitespace" is ignored in all calculations. So, type it how you want.
+
+Basic Math (only STANDARD CALCULATION MODE)
+-----------
+1. Number + Number
+2. Number - Number
+3. Number / Number
+4. Number * Number
+5. Number ^ Number
+6. Number % Number (Modulo)
+
+Advanced Math
+--------------
+1. derive 'Function' (only STANDARD CALCULATION MODE)
+	1.1 derive x			
+	1.2 derive constant number 	(Example: 'derive 3')
+	1.3 derive x^(n)	   	(Example: 'derive x^(3)')
+	1.4 derive a*x^(n)	   	(Example: 'derive 3*x^(3)')
+	1.5 derive a*x^(n) + a*x^(n)	(Example: 'derive 3*x^(3) + 3*x^(3)')
+	1.6 derive a*x^(n) * a*x^(n)	(Example: 'derive 3*x^(3) * 3*x^(3)')
+
+2. rnd (Creates random Numbers. Acts as number. Only STANDARD CALCULATION MODE) 
+3. mat (Matrix Calculations. Only STANDARD CALCULATION MODE)
+4. sum (Summation Sigma Notation. "Number sum Number")
+
+Constants (only STANDARD CALCULATION MODE)
+----------
+eul				//e, Napier's constant, or Euler's number.
+pi				//Pi, Archimedes' constant or Ludolph's number.
+sq2				//Pythagoras' constant, square root of 2.
+sq3 				//Theodorus' constant, square root of 3.
+sq5				//square root of 5
+eulMasch			//Euler–Mascheroni constant
+goldRat				//Golden ratio
+meissMert			//Meissel–Mertens constant
+bern				//Bernstein's constant
+gaussKuzWir			//Gauss–Kuzmin–Wirsing constant
+hafSarMc			//Hafner–Sarnak–McCurley constant
+land				//Landau's constant
+omega				//Omega constant
+golDick				//Golomb–Dickman constant
+cahen				//Cahen's constant
+twinPrime			//Twin prime constant
+laplaceLimit			//Laplace limit
+embTre				//Embree–Trefethen constant
+landRam				//Landau–Ramanujan constant
+allaGrin			//Alladi–Grinstead constant
+brunquadrup			//Brun's constant for prime quadruplets
+catalan				//Catalan's constant
+legendre			//Legendre's constant
+lengyel				//Lengyel's constant
+vis				//Viswanath's constant
+apery				//Apéry's constant
+conway				//Conway's constant
+mill				//Mills' constant
+plastic				//Plastic constant
+ramanSold			//Ramanujan–Soldner constant
+backhouse			//Backhouse's constant
+porter				//Porter's constant
+lieb				//Lieb's square ice constant
+erdBor				//Erdoes–Borwein constant
+niven				//Niven's constant
+brunTwin			//Brun's constant for twin primes
+uniParabol			//Universal parabolic constant
+feigenbaum2			//2nd Feigenbaum constant
+sierpinski			//Sierpinski's constant
+khinchin			//Khinchin's constant
+fransRob			//Fransoen–Robinson constant
+levy				//Lévy's constant
+reciprocFibo			//Reciprocal Fibonacci constant
+feigenbaum1			//1st Feigenbaum constant	
